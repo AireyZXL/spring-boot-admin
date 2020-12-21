@@ -10,6 +10,8 @@ codecentric's Spring Boot Admin
 
 This community project provides an admin interface for [Spring Boot <sup>®</sup>](http://projects.spring.io/spring-boot/ "Official Spring-Boot website") applications.
 
+![图片的第三方大厦](https://img-blog.csdnimg.cn/img_convert/4f528f5abe026155a0c6a1501135589f.png)
+
 It provides the following features for registered applications.
 
 * Show health status
